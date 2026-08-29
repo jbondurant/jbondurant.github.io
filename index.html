@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Justin Bondurant-David</title>
+<style>
+  :root {
+    --bg:   #fdfdfc;
+    --fg:   #1a1a18;
+    --mute: #63635c;
+    --rule: #e2e2dc;
+    --link: #23527a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg:   #161614;
+      --fg:   #e6e6e0;
+      --mute: #9a9a92;
+      --rule: #2e2e2a;
+      --link: #8fb6dc;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font: 17px/1.65 Charter, Georgia, "Times New Roman", serif;
+    max-width: 40rem;
+    margin: 0 auto;
+    padding: 4rem 1.4rem 6rem;
+  }
+  h1 { font-size: 1.7rem; margin: 0 0 .2rem; letter-spacing: -.01em; }
+  .tagline { color: var(--mute); margin: 0 0 2.4rem; font-size: .96rem; }
+  h2 {
+    font-size: .8rem; text-transform: uppercase; letter-spacing: .09em;
+    color: var(--mute); font-weight: 600; margin: 3rem 0 1rem;
+    padding-bottom: .4rem; border-bottom: 1px solid var(--rule);
+  }
+  p { margin: 0 0 1.1rem; }
+  a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--rule); }
+  a:hover { border-bottom-color: currentColor; }
+  .project { margin: 0 0 1.5rem; }
+  .project h3 { font-size: 1rem; font-weight: 600; margin: 0 0 .2rem; }
+  .project p { margin: 0; color: var(--mute); font-size: .94rem; }
+  .meta { font-size: .85rem; color: var(--mute); }
+  footer { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--rule);
+           font-size: .85rem; color: var(--mute); }
+</style>
+</head>
+<body>
+
+<h1>Justin Bondurant-David</h1>
+<p class="tagline">Montreal</p>
+
+<!-- ▼▼ REWRITE THIS IN YOUR OWN WORDS. Facts are yours; the phrasing is a placeholder. -->
+<p>
+  I am a software developer in Montreal. I studied computer science at McGill and
+  spent four years as a backend developer at Morgan Stanley.
+</p>
+<p>
+  I'm moving into computational biology. Most of what is below I built because I
+  wanted the answer to something, not because anyone asked for it.
+</p>
+<!-- ▲▲ -->
+
+<h2>Projects</h2>
+
+<div class="project">
+  <h3><a href="https://github.com/jbondurant/fantasyFootball">fantasyFootball</a></h3>
+  <p>A Monte Carlo draft and keeper simulation engine for a Sleeper fantasy league.
+     Simulates large numbers of drafts over shuffled orders to compare keeper choices
+     by expected outcome. Java/Gradle. Running and maintained since 2022.</p>
+</div>
+
+<div class="project">
+  <h3><a href="https://github.com/jbondurant/twitterSentimentAnalysisCovidCanada">COVID-19 Twitter sentiment, Canada</a></h3>
+  <p>End-to-end pipeline: collection, Canadian filtering, manual annotation, and
+     TF-IDF sentiment analysis per topic. COMP 598 (Data Science), McGill, Fall 2021.</p>
+</div>
+
+<div class="project">
+  <h3><a href="https://github.com/jbondurant/collatzFibbFormulaFinder">collatzFibbFormulaFinder</a></h3>
+  <p>Recreational number theory: a multithreaded search over generalized Collatz
+     rules — change the 3 and the +1, see which variants still reach 1. Java.</p>
+</div>
+
+<div class="project">
+  <h3><a href="https://github.com/jbondurant/CardCountingEdgeCalculator">CardCountingEdgeCalculator</a></h3>
+  <p>Expected-value calculator for blackjack card-counting scenarios. Java.</p>
+</div>
+
+<div class="project">
+  <h3><a href="https://github.com/jbondurant/Math222NotesFall2019">Typeset lecture notes</a></h3>
+  <p>Full LaTeX book-template notes for
+     <a href="https://github.com/jbondurant/Math222NotesFall2019">MATH 222 (Calculus 3)</a> and
+     <a href="https://github.com/jbondurant/Math318NotesFall2020">MATH 318 (Mathematical Logic)</a>,
+     McGill, 2019–2020. The 318 notes were produced for the course instructor.</p>
+</div>
+
+<!--
+  ▼ NOT LISTED YET — because nothing here is public, and a dead link is worse than
+    an omission. These are your three strongest items. Push them and they go up:
+
+    1. COMP 462 Viterbi gene finder — 21 Java files, hand-written HMM, BigDecimal to
+       avoid underflow, run on V. cholerae + V. vulnificus, emits GFF3 predictions.
+       This is the single most field-relevant thing you have made.
+    2. collatz_lab — PyTorch net on binary integer representations, then DEAP genetic
+       programming to distil the black box into a symbolic formula. Plus two papers
+       and the Lean formalisation.
+    3. midi-project-unity / bHaptics — 198 C# files, haptic glove piano teaching.
+       Your only 2026 activity, and the most interesting thing to talk to a person about.
+-->
+
+<h2>Contact</h2>
+<p class="meta">
+  <a href="mailto:justin.bondurant.david@gmail.com">justin.bondurant.david@gmail.com</a> ·
+  <a href="https://github.com/jbondurant">github</a> ·
+  <a href="https://linkedin.com/in/justin-bondurant-david">linkedin</a>
+</p>
+
+<footer>Source: <a href="https://github.com/jbondurant/jbondurant.github.io">github.com/jbondurant/jbondurant.github.io</a></footer>
+
+</body>
+</html>
