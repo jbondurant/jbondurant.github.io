@@ -1,0 +1,309 @@
+key,value,se,lo,hi,src,at,commit,file
+avgbet.80.s8,1.503187,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+bet.80.s1.null,-0.660432,0.005508,-0.671084,-0.649355,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+bet.80.s8.hi_lo,0.133584,0.015512,0.103609,0.164409,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+bet.80.s8.null,-0.992643,0.006589,-1.005183,-0.979762,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+bet.80.s8.perfect,0.223004,0.016047,0.192398,0.25536,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+bet.80.s8.victor_advanced_point_count_ace,0.187419,0.015842,0.157364,0.219583,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+ceiling.para.flat.lower,0.001608,,,,runs/ceiling/ceiling-1946b3d.json,paragraphs.flat.figures.LOWER,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+ceiling.para.same.ev,0.409222,,,,runs/ceiling/ceiling-1946b3d.json,paragraphs.same.figures.EV,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+ceiling.para.same.gain,0.021735,,,,runs/ceiling/ceiling-1946b3d.json,paragraphs.same.figures.GAIN,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+ceiling.para.same.lower,0.019513,,,,runs/ceiling/ceiling-1946b3d.json,paragraphs.same.figures.LOWER,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+ceiling.para.same.perfect,0.521905,,,,runs/ceiling/ceiling-1946b3d.json,paragraphs.same.figures.PERFECT,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+count.literature_claims_where_id_starts_bc_source_is_qfit_table_ours_value_not_null,5.0,,,,computed by SiteBuild,the entries of literature_claims where id^=bc.;source=qfit-table;ours_value!=null,7954b8efaa68dcc5d906c1b4742541546320b6d6,main
+count.literature_claims_where_id_starts_bc_source_is_qfit_table_ours_value_not_null_verdict_not_starts_agrees,1.0,,,,computed by SiteBuild,the entries of literature_claims where id^=bc.;source=qfit-table;ours_value!=null;verdict!^=agrees,7954b8efaa68dcc5d906c1b4742541546320b6d6,main
+count.literature_claims_where_id_starts_bc_source_is_qfit_table_ours_value_not_null_verdict_starts_agrees,4.0,,,,computed by SiteBuild,the entries of literature_claims where id^=bc.;source=qfit-table;ours_value!=null;verdict^=agrees,7954b8efaa68dcc5d906c1b4742541546320b6d6,main
+count.literature_claims_where_id_starts_ic_source_is_qfit_table_ours_value_not_null,6.0,,,,computed by SiteBuild,the entries of literature_claims where id^=ic.;source=qfit-table;ours_value!=null,7954b8efaa68dcc5d906c1b4742541546320b6d6,main
+count.literature_claims_where_id_starts_ic_source_is_qfit_table_ours_value_not_null_verdict_is_agrees,6.0,,,,computed by SiteBuild,the entries of literature_claims where id^=ic.;source=qfit-table;ours_value!=null;verdict=agrees,7954b8efaa68dcc5d906c1b4742541546320b6d6,main
+data.rounds.80,3644432.0,,,,"states runs/montreal-80.states, 1340719767 bytes, modified 1790724357600","round starts before card 332, shoes dealt again from the header's seed",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+data.shoes,60000.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+data.states,60743.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+example.hit,-0.535975,,,,src/ExactRound.java,"valueOfFirstMove, a fresh shoe, 6 and 10 against 10, Hit",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+example.stand,-0.540827,,,,src/ExactRound.java,"valueOfFirstMove, a fresh shoe, 6 and 10 against 10, Stand",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+example.total,16.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+example.up,10.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.70.s8.hi_lo,-0.076393,0.014024,-0.103208,-0.048514,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s1.perfect,-0.529781,0.005591,-0.540689,-0.518872,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.ace_five_count,-0.456352,0.011707,-0.47969,-0.433194,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.brh_0,0.295068,0.01748,0.26091,0.328883,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.brh_i,0.351738,0.018018,0.316668,0.3865,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.brh_ii,0.278399,0.01747,0.245138,0.313567,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.canfield_expert,0.215083,0.016965,0.181595,0.250326,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.canfield_expert_ace,0.280477,0.017326,0.246586,0.315945,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.f1,0.382519,0.018107,0.347149,0.418514,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.f1_own,0.392104,0.018144,0.356548,0.428019,runs/ceiling/ceiling-1946b3d.json,"ladder.fd.80.s8, F1-own-value, F1 at 1-8 (f1-8-vidami-ar), bet on its own value",1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+fd.80.s8.f2,0.409222,0.018252,0.374634,0.4458,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.hi_lo,0.293721,0.01753,0.259733,0.329032,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.hi_opt_i,0.241159,0.017294,0.208308,0.276829,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.hi_opt_i_ace,0.306281,0.017674,0.272054,0.342371,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.hi_opt_ii,0.32007,0.017735,0.286269,0.356596,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.hi_opt_ii_ace,0.38388,0.01803,0.349312,0.420787,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.kiss_i,0.083277,0.01625,0.052568,0.116519,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.kiss_ii,0.220818,0.017148,0.187377,0.255474,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.kiss_iii,0.271116,0.017331,0.237569,0.305781,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.ko,0.296925,0.017886,0.262696,0.332435,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.mentor,0.347589,0.017776,0.313077,0.383782,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.null,-0.992643,0.006593,-1.005183,-0.979762,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.omega_ii,0.312355,0.017775,0.276872,0.347193,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.omega_ii_ace,0.376215,0.018114,0.340103,0.411965,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.perfect,0.521905,0.018903,0.485737,0.559938,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.red_seven,0.275477,0.017384,0.242026,0.309814,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_14_count,0.31181,0.017618,0.278628,0.346906,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_14_count_ace,0.374942,0.017919,0.340707,0.41084,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_advanced_plus_minus,0.217628,0.017036,0.185174,0.251059,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_advanced_plus_minus_ace,0.284137,0.017371,0.250691,0.31909,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_advanced_point_count_1971,0.336058,0.017747,0.302153,0.371553,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_five_count,-0.615256,0.012656,-0.641115,-0.591061,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.revere_point_count,0.346818,0.018588,0.308671,0.382288,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.silver_fox,0.282916,0.018725,0.243753,0.317097,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.ten_count,0.06667,0.016108,0.03575,0.098877,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.thorp_ultimate,0.342192,0.017722,0.308062,0.377579,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.unbalanced_zen_2,0.31234973466247296,0.017805,0.277295,0.347121,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.uston_advanced_plus_minus,0.286488,0.017463,0.252662,0.322017,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.uston_advanced_point_count,0.320335,0.017649,0.286286,0.356238,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.uston_advanced_point_count_ace,0.38249,0.017944,0.348341,0.418236,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.uston_ss,0.292755,0.017487,0.258937,0.327325,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.victor_advanced_point_count,0.325038,0.017739,0.290464,0.36056,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.victor_advanced_point_count_ace,0.387488,0.018037,0.352579,0.42407,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.wong_halves,0.347506,0.017838,0.312729,0.382653,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+fd.80.s8.zen_count,0.356233,0.018049,0.320931,0.392233,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s1.f1,-0.592816,0.005626,-0.603734,-0.58116,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s1.hi_lo,-0.608493,0.005642,-0.619575,-0.597197,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s1.hi_opt_ii_ace,-0.584934,0.005683,-0.596011,-0.573254,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s1.null,-0.660818,0.005763,-0.672136,-0.649284,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s1.perfect,-0.546401,0.005369,-0.556851,-0.535497,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s2.f1,-0.43794,0.007381,-0.452211,-0.422924,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s2.hi_lo,-0.469454,0.007298,-0.483646,-0.454808,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s2.hi_opt_ii_ace,-0.430777,0.007458,-0.445154,-0.415517,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s2.null,-0.744553,0.005871,-0.755563,-0.732913,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s2.perfect,-0.376436,0.007155,-0.390872,-0.362002,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s3.f1,-0.305115,0.00924,-0.322793,-0.28681,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s3.hi_lo,-0.347995,0.009065,-0.365379,-0.329672,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s3.hi_opt_ii_ace,-0.298497,0.009333,-0.316326,-0.279632,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s3.null,-0.802758,0.006014,-0.814033,-0.79052,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s3.perfect,-0.231819,0.009014,-0.24951,-0.213881,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s4.f1,-0.195881,0.011025,-0.217074,-0.173714,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s4.hi_lo,-0.2488,0.010762,-0.269229,-0.227176,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s4.hi_opt_ii_ace,-0.18994954643125786,0.011123,-0.211354,-0.167463,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s4.null,-0.842671,0.00616,-0.854644,-0.829927,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s4.perfect,-0.114047,0.010774,-0.13504,-0.092794,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s5.f1,-0.109921,0.012665,-0.133303,-0.084286,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s5.hi_lo,-0.169794,0.012337,-0.192844,-0.144879,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s5.hi_opt_ii_ace,-0.104833,0.012761,-0.128954,-0.07873,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s5.null,-0.869324,0.006278,-0.881465,-0.856635,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s5.perfect,-0.022353,0.012375,-0.046181,0.001953,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s6.f1,-0.044713,0.014064,-0.070763,-0.016536,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s6.hi_lo,-0.110453,0.013675,-0.136315,-0.083082,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s6.hi_opt_ii_ace,-0.040501,0.014146,-0.067316,-0.011966,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s6.null,-0.886719,0.006386,-0.899114,-0.873939,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s6.perfect,0.04645,0.013719,0.020432,0.073731,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s7.f1,0.003618,0.015236,-0.025247,0.033458,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s7.hi_lo,-0.066145,0.014801,-0.094222,-0.03668,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s7.hi_opt_ii_ace,0.006754,0.015298,-0.021922,0.037003,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s7.null,-0.897885,0.006458,-0.91046,-0.884995,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s7.perfect,0.096675,0.014823,0.068206,0.126158,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s8.f1,0.038214,0.016207,0.007363,0.068984,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s8.hi_lo,-0.034933,0.015712,-0.064845,-0.003553,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s8.hi_opt_ii_ace,0.040398,0.016246,0.00923,0.072111,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s8.null,-0.904907,0.006503,-0.917496,-0.891912,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s8.perfect,0.132255,0.015722,0.102235,0.163168,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.70.s8.victor_advanced_point_count_ace,0.038579,0.016192,0.006887,0.068811,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s1.f1,-0.559201,0.006058,-0.57099,-0.547463,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s1.hi_lo,-0.581147,0.00603,-0.592869,-0.56942,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s1.null,-0.659818,0.006067,-0.67148,-0.647747,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s1.perfect,-0.49357,0.005658,-0.504575,-0.482339,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s1.victor_advanced_point_count_ace,-0.550356,0.006004,-0.562118,-0.538711,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s2.f1,-0.339118,0.008264,-0.355519,-0.322465,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s2.hi_lo,-0.381499,0.008112,-0.397601,-0.365032,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s2.null,-0.760066,0.006332,-0.772148,-0.747768,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s2.perfect,-0.250197,0.007881,-0.265852,-0.234482,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s2.victor_advanced_point_count_ace,-0.330877,0.008221,-0.347036,-0.314236,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s3.f1,-0.141775,0.010612,-0.162535,-0.120569,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s3.hi_lo,-0.200523,0.010336,-0.220971,-0.179705,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s3.null,-0.834147,0.006585,-0.846618,-0.821464,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s3.perfect,-0.034018,0.010204,-0.054006,-0.013593,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s3.victor_advanced_point_count_ace,-0.134301,0.010563,-0.155193,-0.113173,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s4.f1,0.030265,0.012925,0.004627,0.056147,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s4.hi_lo,-0.043103,0.012537,-0.06754,-0.0178,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s4.null,-0.888694,0.006804,-0.901794,-0.875454,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s4.perfect,0.152404,0.012466,0.127279,0.177512,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s4.victor_advanced_point_count_ace,0.036381,0.012875,0.010913,0.062208,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s5.f1,0.176094,0.015137,0.14602,0.207221,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s5.hi_lo,0.091307,0.014652,0.063419,0.120883,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s5.null,-0.928402,0.006967,-0.941797,-0.914606,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s5.perfect,0.308705,0.01461,0.279647,0.339087,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s5.victor_advanced_point_count_ace,0.18057,0.015084,0.150809,0.211647,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s6.f1,0.296863,0.017158,0.263723,0.332281,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s6.hi_lo,0.202163,0.016587,0.170361,0.236039,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s6.null,-0.957034,0.007104,-0.970608,-0.942908,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s6.perfect,0.436759,0.016549,0.403947,0.4709,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s6.victor_advanced_point_count_ace,0.299453,0.017097,0.266322,0.334723,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s7.f1,0.394767,0.018964,0.358493,0.433703,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s7.hi_lo,0.292844,0.018325,0.257643,0.329993,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s7.null,-0.977443,0.007209,-0.991212,-0.963145,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s7.perfect,0.539458,0.018261,0.503822,0.576787,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s7.victor_advanced_point_count_ace,0.395737,0.018889,0.359558,0.434862,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.ace_five_count,-0.434095,0.012883,-0.459636,-0.408422,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.brh_0,0.361156,0.019787,0.322373,0.399866,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.brh_i,0.433814,0.02036,0.394295,0.474409,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.brh_ii,0.356543,0.019814,0.319446,0.396774,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.canfield_expert,0.293959,0.019249,0.25599,0.333848,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.canfield_expert_ace,0.354929,0.019607,0.316824,0.395539,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.f1,0.472081,0.02056,0.432429,0.513315,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.f1_own,0.481029,0.020595,0.441256,0.522216,runs/ceiling/ceiling-1946b3d.json,"ladder.full.80.s8, F1-own-value, F1 at 1-8 (f1-8-vidami-ar), full play, bet on its own value",1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+full.80.s8.f2,0.495549,0.020563,0.45608,0.537208,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.hi_lo,0.364108,0.019851,0.325849,0.404526,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.hi_opt_i,0.323958,0.019669,0.286776,0.364324,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.hi_opt_i_ace,0.383717,0.020055,0.345195,0.424847,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.hi_opt_ii,0.412665,0.020196,0.375267,0.454229,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.hi_opt_ii_ace,0.470274,0.02046,0.431446,0.51217,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.kiss_i,0.142692,0.018457,0.107099,0.180813,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.kiss_ii,0.295098,0.019437,0.257457,0.33458,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.kiss_iii,0.335261,0.019606,0.297973,0.374607,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.ko,0.362358,0.020277,0.323175,0.402897,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.mentor,0.4324,0.020255,0.393182,0.473859,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.null,-0.991719,0.00729,-1.00556,-0.977243,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.omega_ii,0.401924,0.020112,0.362121,0.442412,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.omega_ii_ace,0.460355,0.020646,0.419174,0.501814,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.perfect,0.619803,0.019759,0.581442,0.660083,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.red_seven,0.339813,0.019106,0.302988,0.378107,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_14_count,0.409021,0.020133,0.370839,0.449564,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_14_count_ace,0.467108,0.020432,0.428053,0.507861,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_advanced_plus_minus,0.299186,0.019431,0.262016,0.337753,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_advanced_plus_minus_ace,0.361772,0.019746,0.323809,0.401702,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_advanced_point_count_1971,0.411752,0.020078,0.373257,0.453114,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_five_count,-0.585465,0.014058,-0.614407,-0.558598,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.revere_point_count,0.423748,0.02108,0.38163,0.46464957029996895,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.silver_fox,0.355649,0.021315,0.311595,0.39563,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.ten_count,0.129118,0.018056,0.094926,0.16572,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.thorp_ultimate,0.42232,0.020135,0.384491,0.46322,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.unbalanced_zen_2,0.387263,0.020219,0.347223,0.426932,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.uston_advanced_plus_minus,0.359154,0.019746,0.320831,0.398928,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.uston_advanced_point_count,0.410324,0.020047,0.372348,0.452113,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.uston_advanced_point_count_ace,0.466325,0.020333,0.427492,0.508032,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.uston_ss,0.364361,0.019811,0.326548,0.40423,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.victor_advanced_point_count,0.415394,0.020187,0.376311,0.456128,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.victor_advanced_point_count_ace,0.471719,0.020467,0.432286,0.513646,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.wong_halves,0.43184,0.019725,0.394009,0.471285,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+full.80.s8.zen_count,0.440513,0.020535,0.39982,0.482049,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.ace_five_count,0.022257,9.08E-4,0.02055,0.024162,runs/full-index/full-c06c061/results.ser,"Ace-Five Count, full play less Ace-Five Count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.brh_0,0.066087,0.002362,0.061618,0.070913,runs/full-index/full-c06c061/results.ser,"BRH-0, full play less BRH-0, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.brh_i,0.082077,0.002407,0.077585,0.087201,runs/full-index/full-c06c061/results.ser,"BRH-I, full play less BRH-I, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.brh_ii,0.078144,0.002292,0.07389,0.082888,runs/full-index/full-c06c061/results.ser,"BRH-II, full play less BRH-II, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.canfield_expert,0.078876,0.002431,0.074558,0.083968,runs/full-index/full-c06c061/results.ser,"Canfield Expert, full play less Canfield Expert, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.canfield_expert_ace,0.074452,0.002384,0.070392,0.079562,runs/full-index/full-c06c061/results.ser,"Canfield Expert + ace side count, full play less Canfield Expert + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.hi_lo,0.070386,0.00177,0.067044,0.07401,runs/full-index/full-c06c061/results.ser,"Hi-Lo = Hi-Lo Lite, full play less Hi-Lo = Hi-Lo Lite, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.hi_opt_i,0.082799,0.002357,0.078374,0.087572,runs/full-index/full-c06c061/results.ser,"Hi-Opt I, full play less Hi-Opt I, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.hi_opt_i_ace,0.077436,0.002354,0.073047,0.082234,runs/full-index/full-c06c061/results.ser,"Hi-Opt I + ace side count, full play less Hi-Opt I + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.hi_opt_ii,0.092595,0.002428,0.088107,0.097605,runs/full-index/full-c06c061/results.ser,"Hi-Opt II, full play less Hi-Opt II, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.hi_opt_ii_ace,0.086394,0.00236,0.081828,0.091017,runs/full-index/full-c06c061/results.ser,"Hi-Opt II + ace side count, full play less Hi-Opt II + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.kiss_i,0.059415,0.002209,0.05486,0.063646,runs/full-index/full-c06c061/results.ser,"KISS I, full play less KISS I, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.kiss_ii,0.07428,0.002257,0.070039,0.078941,runs/full-index/full-c06c061/results.ser,"KISS II, full play less KISS II, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.kiss_iii,0.064144,0.002186,0.059949,0.068452,runs/full-index/full-c06c061/results.ser,"KISS III, full play less KISS III, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.ko,0.065433,0.001454,0.062873,0.068695,runs/full-index/full-c06c061/results.ser,"KO (Knock-Out) = REKO (Ridiculously Easy Knock-Out), full play less KO (Knock-Out) = REKO (Ridiculously Easy Knock-Out), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.mentor,0.084812,0.002481,0.080305,0.089861,runs/full-index/full-c06c061/results.ser,"Mentor, full play less Mentor, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.null,9.24E-4,6.62E-4,-3.32E-4,0.002241,runs/full-index/full-c06c061/results.ser,"Null count (no count), full play less Null count (no count), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.omega_ii,0.08957,0.002624,0.084469,0.09479,runs/full-index/full-c06c061/results.ser,"Omega II = Canfield Master, full play less Omega II = Canfield Master, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.omega_ii_ace,0.08414,0.002652,0.079134,0.089417,runs/full-index/full-c06c061/results.ser,"Omega II = Canfield Master + ace side count, full play less Omega II = Canfield Master + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.red_seven,0.064336,0.001241,0.062138,0.066978,runs/full-index/full-c06c061/results.ser,"Red Seven (Red 7), full play less Red Seven (Red 7), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_14_count,0.097211,0.002548,0.092283,0.102322,runs/full-index/full-c06c061/results.ser,"Revere 14 Count (1973 Advanced Point Count), full play less Revere 14 Count (1973 Advanced Point Count), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_14_count_ace,0.092166,0.00256,0.086936,0.097018,runs/full-index/full-c06c061/results.ser,"Revere 14 Count (1973 Advanced Point Count) + ace side count, full play less Revere 14 Count (1973 Advanced Point Count) + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_advanced_plus_minus,0.081558,0.002413,0.077069,0.086423,runs/full-index/full-c06c061/results.ser,"Revere Advanced Plus-Minus, full play less Revere Advanced Plus-Minus, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_advanced_plus_minus_ace,0.077634,0.002384,0.073088,0.082354,runs/full-index/full-c06c061/results.ser,"Revere Advanced Plus-Minus + ace side count, full play less Revere Advanced Plus-Minus + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_advanced_point_count_1971,0.075694,0.002513,0.071153,0.081161,runs/full-index/full-c06c061/results.ser,"Revere Advanced Point Count 1971 (RAPC), full play less Revere Advanced Point Count 1971 (RAPC), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_five_count,0.029791,0.001344,0.02712,0.032312,runs/full-index/full-c06c061/results.ser,"Revere Five-Count, full play less Revere Five-Count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.revere_point_count,0.07693,0.002695,0.071855,0.08243,runs/full-index/full-c06c061/results.ser,"Revere Point Count (RPC) = FELT (Fairly Easy Level Two) = C-R (Chambliss-Roginski), full play less Revere Point Count (RPC) = FELT (Fairly Easy Level Two) = C-R (Chambliss-Roginski), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.silver_fox,0.072732,0.002567,0.067648,0.077617,runs/full-index/full-c06c061/results.ser,"Silver Fox, full play less Silver Fox, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.ten_count,0.062448,0.001756,0.059212,0.06619,runs/full-index/full-c06c061/results.ser,"Ten Count (unbalanced; insurance-oriented), full play less Ten Count (unbalanced; insurance-oriented), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.thorp_ultimate,0.080128,0.002514,0.075956,0.085699,runs/full-index/full-c06c061/results.ser,"Thorp Ultimate, full play less Thorp Ultimate, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.unbalanced_zen_2,0.074913,0.002367,0.070116,0.079501,runs/full-index/full-c06c061/results.ser,"Unbalanced Zen 2 (UBZ2), full play less Unbalanced Zen 2 (UBZ2), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.uston_advanced_plus_minus,0.072667,0.002286,0.068037,0.077277,runs/full-index/full-c06c061/results.ser,"Uston Advanced Plus-Minus, full play less Uston Advanced Plus-Minus, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.uston_advanced_point_count,0.089989,0.002414,0.085679,0.094863,runs/full-index/full-c06c061/results.ser,"Uston Advanced Point Count (Uston APC), full play less Uston Advanced Point Count (Uston APC), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.uston_advanced_point_count_ace,0.083835,0.002375,0.079672,0.088645,runs/full-index/full-c06c061/results.ser,"Uston Advanced Point Count (Uston APC) + ace side count, full play less Uston Advanced Point Count (Uston APC) + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.uston_ss,0.071606,0.002236,0.067437,0.076116,runs/full-index/full-c06c061/results.ser,"Uston SS, full play less Uston SS, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.victor_advanced_point_count,0.090356,0.002658,0.085269,0.095517,runs/full-index/full-c06c061/results.ser,"Victor Advanced Point Count (Victor APC), full play less Victor Advanced Point Count (Victor APC), 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.victor_advanced_point_count_ace,0.084232,0.002599,0.079237,0.089411,runs/full-index/full-c06c061/results.ser,"Victor Advanced Point Count (Victor APC) + ace side count, full play less Victor Advanced Point Count (Victor APC) + ace side count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.wong_halves,0.084335,0.002249,0.080168,0.088985,runs/full-index/full-c06c061/results.ser,"Wong Halves, full play less Wong Halves, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+gain.80.s8.zen_count,0.08428,0.002563,0.079427,0.089453,runs/full-index/full-c06c061/results.ser,"Zen Count, full play less Zen Count, 80%",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.bj_den,2.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.bj_num,3.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.cards,416.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.das,1.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.decks,8.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.h17,1.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.hit_split_aces,-1.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.peek,1.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.pen.70,70.0,,,,src/SystemScorer.java,"PENETRATIONS[0], the cut at card 291",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.pen.75,75.0,,,,src/SystemScorer.java,"PENETRATIONS[1], the cut at card 312",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.pen.80,80.0,,,,src/SystemScorer.java,"PENETRATIONS[2], the cut at card 332",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.split_hands,4.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.spread_max,8.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+game.surrender,-1.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+ledger.lines,3.0,,,,custom-count-design:custom-count-ledger.tsv,the looks at the main file the ledger holds,39bd6d4a17f168c8906bce219db2eb95de67d856,main
+lit.agree,19.0,,,,LiteratureCheck: agrees,,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+lit.compared,57.0,,,,LiteratureCheck: published figures compared,,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+lit.direction,18.0,,,,LiteratureCheck: agrees in direction,,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+lit.not_compared,16.0,,,,LiteratureCheck: not compared,,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+lit.tested,7.0,,,,"LiteratureCheck: differs, for a reason tested by code here",,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+lit.unexplained,1.0,,,,"LiteratureCheck: differs, for no reason found",,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+lit.untested,12.0,,,,"LiteratureCheck: differs, for a reason not yet tested",,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+method.ci,95.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+method.deals,550.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+method.resamples,1000.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+method.values_per_state,1720.0,,,,runs/full-index/full-c06c061/results.ser,,c06c061c21445d0c3c32752b4e8906390fb670ad,main
+perbet.full.80.s8.hi_lo,0.242224,0.012317,0.218347,0.266882,runs/full-index/full-c06c061/results.ser,"Hi-Lo = Hi-Lo Lite, full play, 80%, EV over average bet",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+perbet.full.80.s8.victor_advanced_point_count_ace,0.313813,0.012455,0.289664,0.339168,runs/full-index/full-c06c061/results.ser,"Victor Advanced Point Count (Victor APC) + ace side count, full play, 80%, EV over average bet",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+range.full_80_s8_top5,0.011364,,,,computed by SiteBuild,"the highest less the lowest of full.80.s8.victor_advanced_point_count_ace, full.80.s8.hi_opt_ii_ace, full.80.s8.revere_14_count_ace, full.80.s8.uston_advanced_point_count_ace, full.80.s8.omega_ii_ace",7954b8efaa68dcc5d906c1b4742541546320b6d6,main
+risk.ev_per100_usd.full.80.s8.victor_advanced_point_count_ace,11.793,,10.807,12.841,runs/risk/risk-1946b3d.json,"rows[F29].f[2], ev.per100.usd",1946b3d,main
+risk.rounds,100.0,,,,runs/risk/risk-1946b3d.json,"layout, the N of ev.perN",1946b3d,main
+risk.sd_per100_usd.full.80.s8.victor_advanced_point_count_ace,610.15,,,,runs/risk/risk-1946b3d.json,"rows[F29].f[3], sd.per100.usd",1946b3d,main
+risk.unit_usd,25.0,,,,runs/risk/risk-1946b3d.json,unit_usd,1946b3d,main
+sim.failed,0.0,,,,runs/sim/part1-0e0920d/summary-p3.json,|z| of 3.5 or more,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.flagged,0.0,,,,runs/sim/part1-0e0920d/summary-p3.json,|z| from 2.5 to under 3.5,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.passed,82.0,,,,runs/sim/part1-0e0920d/summary-p3.json,|z| under 3.5,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.planted,8.0,,,,runs/sim/part1-0e0920d/summary-p3.json,planted-bug runs,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.planted_caught,7.0,,,,runs/sim/part1-0e0920d/summary-p3.json,caught by a D check or |z| of 3.5 or more,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.rounds,2.308048357E9,,,,runs/sim/part1-0e0920d/summary-p3.json,the most rounds of P3's comparisons,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.rounds_needed,3.361404932E9,,,,runs/sim/part1-0e0920d/summary-p3.json,(0.9391404743847406 / 1.6198326235280337E-5)^2: the simulator's σ_eff of F29 less F27 a round over the engine's paired SE of the same difference,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.tests,82.0,,,,runs/sim/part1-0e0920d/summary-p3.json,SIM_CHECK.md's registered tests of the parts covered,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+sim.z_max,1.761308,,,,runs/sim/part1-0e0920d/summary-p3.json,the largest |z| of the registered tests,fe9a91ea88f49b73c86278eec075d2b17e4bd4bd,main
+tags.f1.r1,-0.7264,,,,custom-count-design:custom-counts.json,F1's tag of rank A,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r10,-1.0827,,,,custom-count-design:custom-counts.json,F1's tag of rank T,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r2,0.6197,,,,custom-count-design:custom-counts.json,F1's tag of rank 2,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r3,0.7851,,,,custom-count-design:custom-counts.json,F1's tag of rank 3,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r4,1.0852,,,,custom-count-design:custom-counts.json,F1's tag of rank 4,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r5,1.2536,,,,custom-count-design:custom-counts.json,F1's tag of rank 5,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r6,0.7933,,,,custom-count-design:custom-counts.json,F1's tag of rank 6,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r7,0.5948,,,,custom-count-design:custom-counts.json,F1's tag of rank 7,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r8,0.117,,,,custom-count-design:custom-counts.json,F1's tag of rank 8,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f1.r9,-0.1915,,,,custom-count-design:custom-counts.json,F1's tag of rank 9,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r1,0.1225,,,,custom-count-design:custom-counts.json,F2's tag of rank A,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r10,-1.2268,,,,custom-count-design:custom-counts.json,F2's tag of rank T,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r2,0.4568,,,,custom-count-design:custom-counts.json,F2's tag of rank 2,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r3,0.6432,,,,custom-count-design:custom-counts.json,F2's tag of rank 3,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r4,0.9282,,,,custom-count-design:custom-counts.json,F2's tag of rank 4,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r5,1.0866,,,,custom-count-design:custom-counts.json,F2's tag of rank 5,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r6,0.7678,,,,custom-count-design:custom-counts.json,F2's tag of rank 6,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r7,0.7503,,,,custom-count-design:custom-counts.json,F2's tag of rank 7,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r8,0.3368,,,,custom-count-design:custom-counts.json,F2's tag of rank 8,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.f2.r9,-0.185,,,,custom-count-design:custom-counts.json,F2's tag of rank 9,1946b3dc1182c86f59d88b115edcd601a64e9cfd,main
+tags.hi_lo.r1,-1.0,,,,counting-systems.json,"Hi-Lo, tags.A",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r10,-1.0,,,,counting-systems.json,"Hi-Lo, tags.T",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r2,1.0,,,,counting-systems.json,"Hi-Lo, tags.2",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r3,1.0,,,,counting-systems.json,"Hi-Lo, tags.3",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r4,1.0,,,,counting-systems.json,"Hi-Lo, tags.4",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r5,1.0,,,,counting-systems.json,"Hi-Lo, tags.5",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r6,1.0,,,,counting-systems.json,"Hi-Lo, tags.6",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r7,0.0,,,,counting-systems.json,"Hi-Lo, tags.7",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r8,0.0,,,,counting-systems.json,"Hi-Lo, tags.8",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.hi_lo.r9,0.0,,,,counting-systems.json,"Hi-Lo, tags.9",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r1,-1.0,,,,counting-systems.json,"Zen Count, tags.A",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r10,-2.0,,,,counting-systems.json,"Zen Count, tags.T",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r2,1.0,,,,counting-systems.json,"Zen Count, tags.2",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r3,1.0,,,,counting-systems.json,"Zen Count, tags.3",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r4,2.0,,,,counting-systems.json,"Zen Count, tags.4",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r5,2.0,,,,counting-systems.json,"Zen Count, tags.5",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r6,2.0,,,,counting-systems.json,"Zen Count, tags.6",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r7,1.0,,,,counting-systems.json,"Zen Count, tags.7",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r8,0.0,,,,counting-systems.json,"Zen Count, tags.8",c06c061c21445d0c3c32752b4e8906390fb670ad,main
+tags.zen_count.r9,0.0,,,,counting-systems.json,"Zen Count, tags.9",c06c061c21445d0c3c32752b4e8906390fb670ad,main
