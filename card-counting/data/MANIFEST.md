@@ -1,17 +1,17 @@
 # Manifest
 
-A SHA-256 hash proves that a file is, byte for byte, the file it was taken from. The files under served ship with the page, and SHA256SUMS lists them, so shasum -a 256 -c SHA256SUMS checks them. The hashes under recorded were taken of the run files the figures were read from. Those files do not ship with the page, so their hashes cannot be checked from it alone. That the listed commits produced these files is the publisher's statement. A hash says nothing about whether the code is right; a bug is hashed just as faithfully. Each file is named from the repository's folder. Files under runs/ are run outputs: they are kept out of the repository and are not published. A name with a branch before a colon, such as custom-count-design:custom-counts.json, is the committed file at that path on that branch. The runs recorded full paths on the computer they ran on, and the part up to the repository's folder is left out here. The input files, listed under inputs in manifest.json, still hold the full paths, so their hashes are those of the files as written.
+A SHA-256 hash proves that a file is, byte for byte, the file it was taken from. The files under served ship with the page, and SHA256SUMS lists them, so shasum -a 256 -c SHA256SUMS checks them. The hashes under recorded were taken of the run files the figures were read from. Those files do not ship with the page, so their hashes cannot be checked from it alone. That these are the files the figures were read from is the publisher's statement. The commit beside each is the one its input names, usually the run that made the figures read from it; it is not always the commit that made the file, and for the ledger it is the git blob of the registration. A hash says nothing about whether the code is right; a bug is hashed just as faithfully. Each file is named from the repository's folder. Files under runs/ are run outputs: they are kept out of the repository and are not published. A name with a branch before a colon, such as custom-count-design:custom-counts.json, is the committed file at that path on that branch. The runs recorded full paths on the computer they ran on, and the part up to the repository's folder is left out here. The input files, listed under inputs in manifest.json, still hold the full paths, so their hashes are those of the files as written.
 
 ## Served
 
 | File | Bytes | SHA-256 | Made by |
 |---|---|---|---|
-| data/results.json | 1565877 | `b558d880dfb0d271478214522c3d447b70f88c2e550f02391b183f4bd45969ad` | SiteBuild |
-| data/results.csv | 47172 | `fbad2d3ebdc20f8d0c4ba0e5e67a1bf8ed5acb9e3588698b438ba9485470e733` | SiteBuild |
+| data/results.json | 1565877 | `362a64a2b4991f396cdc8bba12f8f7928cf1746451b173aa3f5cc9f966f2891d` | SiteBuild |
+| data/results.csv | 47172 | `2a63a7c30debda547545773858dc84decd66a10e62a50ce40bf80c8095cc9f96` | SiteBuild |
 
 ## Recorded
 
-| File | Bytes | SHA-256 | Commit |
+| File | Bytes | SHA-256 | Input's commit |
 |---|---|---|---|
 | counting-systems.json |  | `d63b01b967efdd6690752f56e1ffa9004432d89c36b7cef9e016ac80b0a03f66` | 1946b3dc1182c86f59d88b115edcd601a64e9cfd |
 | custom-count-design:custom-count-ledger.tsv | 922 | `8dfb83d169d2bc1684cf7a083ea158aef5135ac6edc2aef4f511b3869c696794` | 39bd6d4a17f168c8906bce219db2eb95de67d856 |

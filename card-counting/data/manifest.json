@@ -1,12 +1,12 @@
 {
-  "_about": "A SHA-256 hash proves that a file is, byte for byte, the file it was taken from. The files under served ship with the page, and SHA256SUMS lists them, so shasum -a 256 -c SHA256SUMS checks them. The hashes under recorded were taken of the run files the figures were read from. Those files do not ship with the page, so their hashes cannot be checked from it alone. That the listed commits produced these files is the publisher's statement. A hash says nothing about whether the code is right; a bug is hashed just as faithfully. Each file is named from the repository's folder. Files under runs/ are run outputs: they are kept out of the repository and are not published. A name with a branch before a colon, such as custom-count-design:custom-counts.json, is the committed file at that path on that branch. The runs recorded full paths on the computer they ran on, and the part up to the repository's folder is left out here. The input files, listed under inputs in manifest.json, still hold the full paths, so their hashes are those of the files as written.",
+  "_about": "A SHA-256 hash proves that a file is, byte for byte, the file it was taken from. The files under served ship with the page, and SHA256SUMS lists them, so shasum -a 256 -c SHA256SUMS checks them. The hashes under recorded were taken of the run files the figures were read from. Those files do not ship with the page, so their hashes cannot be checked from it alone. That these are the files the figures were read from is the publisher's statement. The commit beside each is the one its input names, usually the run that made the figures read from it; it is not always the commit that made the file, and for the ledger it is the git blob of the registration. A hash says nothing about whether the code is right; a bug is hashed just as faithfully. Each file is named from the repository's folder. Files under runs/ are run outputs: they are kept out of the repository and are not published. A name with a branch before a colon, such as custom-count-design:custom-counts.json, is the committed file at that path on that branch. The runs recorded full paths on the computer they ran on, and the part up to the repository's folder is left out here. The input files, listed under inputs in manifest.json, still hold the full paths, so their hashes are those of the files as written.",
   "version": "draft",
-  "date": "2026-10-20",
+  "date": "2026-10-22",
   "fixture": false,
   "java": "25.0.1+8-27",
   "served": [
-    {"path":"data/results.json","bytes":1565877,"sha256":"b558d880dfb0d271478214522c3d447b70f88c2e550f02391b183f4bd45969ad"},
-    {"path":"data/results.csv","bytes":47172,"sha256":"fbad2d3ebdc20f8d0c4ba0e5e67a1bf8ed5acb9e3588698b438ba9485470e733"}
+    {"path":"data/results.json","bytes":1565877,"sha256":"362a64a2b4991f396cdc8bba12f8f7928cf1746451b173aa3f5cc9f966f2891d"},
+    {"path":"data/results.csv","bytes":47172,"sha256":"2a63a7c30debda547545773858dc84decd66a10e62a50ce40bf80c8095cc9f96"}
   ],
   "inputs": [
     {"path":"runs/site-1946b3d/ceiling-1946b3d.json","sha256":"7cfc51fbc4d609d7f5aaae7febddd4d5c046f40f67410f8238dd1f64777900e9","what":"ceiling","commit":"1946b3dc1182c86f59d88b115edcd601a64e9cfd"},
