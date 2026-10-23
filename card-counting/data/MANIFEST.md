@@ -6,8 +6,8 @@ A SHA-256 hash proves that a file is, byte for byte, the file it was taken from.
 
 | File | Bytes | SHA-256 | Made by |
 |---|---|---|---|
-| data/results.json | 1565877 | `362a64a2b4991f396cdc8bba12f8f7928cf1746451b173aa3f5cc9f966f2891d` | SiteBuild |
-| data/results.csv | 47172 | `2a63a7c30debda547545773858dc84decd66a10e62a50ce40bf80c8095cc9f96` | SiteBuild |
+| data/results.json | 1565877 | `bf93411c5227562a26147331be522196fbf07ed7acc5b96e9cf019e066c57eec` | SiteBuild |
+| data/results.csv | 47172 | `2b13ba953c60dcb10f464c4ad010df76e4b4b6002c6d46052fcdeb8526aa2c26` | SiteBuild |
 
 ## Recorded
 
